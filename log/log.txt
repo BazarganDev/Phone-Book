@@ -1,0 +1,65 @@
+[2024-02-29 09:39:00.185414] Added a contact --> Sda : 1
+[2024-02-29 09:39:01.559702] Added a contact --> Sda : 1
+[2024-02-29 09:39:01.704700] Added a contact --> Sda : 1
+[2024-02-29 09:39:04.013651] Deleted a contact --> Sda : 1
+[2024-02-29 09:39:04.149387] Deleted a contact --> Sda : 1
+[2024-02-29 09:39:04.514068] Deleted a contact --> Sda : 1
+[2024-02-29 09:42:47.914954] Added a contact --> Mohammad : 12345
+[2024-03-01 19:14:50.923332] Deleted a contact --> Hello : 1
+[2024-03-01 19:14:52.648624] Added a contact --> Hello : 1
+[2024-03-01 19:14:54.129060] Added a contact --> Hello : 1
+[2024-03-01 19:37:13.350943] Deleted a contact --> Hello : 
+[2024-03-01 19:37:27.248575] Deleted a contact --> Hello : 
+[2024-03-01 19:37:43.462632] Added a contact --> Mohammad Bazargan : 09014317978
+[2024-03-01 19:37:51.796363] Added a contact --> Ali Bazargan : 1
+[2024-03-01 19:37:57.670874] Added a contact --> Hossein Bazargan : 2
+[2024-03-01 19:38:10.268939] Added a contact --> Hadiseh Bazargan : 3
+[2024-03-01 19:38:15.618940] Deleted a contact --> Mohaddeseh Bazargan : 4
+[2024-03-01 19:38:18.524689] Added a contact --> Mohaddeseh Bazargan : 4
+[2024-03-01 19:38:30.374013] Added a contact --> Khatereh Khalkhali : 5
+[2024-03-01 19:38:53.133544] Added a contact --> Mohammad Bazargan : 6
+[2024-03-01 19:39:03.019128] Deleted a contact -->  : 1
+[2024-03-01 19:39:20.855135] Deleted a contact -->  : 2
+[2024-03-01 19:39:35.670311] Deleted a contact --> 4 : 
+[2024-03-01 19:40:13.818768] Added a contact --> Mohammad : 1
+[2024-03-01 19:40:18.065757] Added a contact --> Ali : 2
+[2024-03-01 19:40:26.117551] Added a contact --> Hossein : 3
+[2024-03-01 19:40:35.117588] Added a contact --> Khatereh : 4
+[2024-03-01 19:40:42.760910] Added a contact --> Mohaddeseh : 5
+[2024-03-01 19:40:47.614186] Added a contact --> Hadiseh : 6
+[2024-03-01 19:40:59.597577] Deleted a contact --> Hadiseh : 
+[2024-03-01 19:41:19.987537] Deleted a contact --> 2 : 
+[2024-03-01 19:42:42.958778] Added a contact --> Salam : 12345
+[2024-03-01 19:42:49.476919] Added a contact --> Salam : 12345
+[2024-03-01 19:42:50.413701] Added a contact --> Salam : 12345
+[2024-03-01 19:42:50.577671] Added a contact --> Salam : 12345
+[2024-03-01 19:42:51.249292] Added a contact --> Salam : 12345
+[2024-03-01 19:42:51.630364] Added a contact --> Salam : 12345
+[2024-03-01 19:42:52.118629] Added a contact --> Salam : 12345
+[2024-03-01 19:42:52.481938] Added a contact --> Salam : 12345
+[2024-03-01 19:42:52.650578] Added a contact --> Salam : 12345
+[2024-03-01 19:42:52.818832] Added a contact --> Salam : 12345
+[2024-03-01 19:42:53.167389] Added a contact --> Salam : 12345
+[2024-03-01 19:42:53.426932] Added a contact --> Salam : 12345
+[2024-03-01 19:42:53.691086] Added a contact --> Salam : 12345
+[2024-03-01 19:42:53.923343] Added a contact --> Salam : 12345
+[2024-03-01 19:42:54.107957] Added a contact --> Salam : 12345
+[2024-03-01 19:42:54.298881] Added a contact --> Salam : 12345
+[2024-03-01 19:43:12.215166] Deleted a contact --> Salam : 
+[2024-03-01 19:43:46.240099] Deleted a contact --> Salam : 
+[2024-03-01 19:43:58.782102] Deleted a contact --> Salam : 12345
+[2024-03-01 19:43:59.650952] Deleted a contact --> Salam : 12345
+[2024-03-01 19:43:59.786347] Deleted a contact --> Salam : 12345
+[2024-03-01 19:43:59.918311] Deleted a contact --> Salam : 12345
+[2024-03-01 19:44:00.054365] Deleted a contact --> Salam : 12345
+[2024-03-01 19:44:00.173806] Deleted a contact --> Salam : 12345
+[2024-03-01 19:44:12.748400] Deleted a contact --> Salam : 
+[2024-03-01 19:45:53.317051] Added a contact --> Mohammad : 1
+[2024-03-01 19:45:58.492270] Added a contact --> Mahdi : 2
+[2024-03-01 19:46:07.299867] Added a contact --> Mohaddeseh : 3
+[2024-03-01 19:46:13.345798] Added a contact --> Hadiseh : 4
+[2024-03-01 19:46:29.064172] Added a contact --> Test : 123456
+[2024-03-01 19:46:48.214615] Deleted a contact --> 2 : 
+[2024-03-02 08:13:57.640380] Deleted a contact --> Mohammad : 
+[2024-03-02 08:14:22.941678] Deleted a contact -->  : 65417906643
+[2024-03-02 08:17:06.649953] Deleted a contact --> Hadiseh : 
